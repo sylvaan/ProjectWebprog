@@ -1,0 +1,1 @@
+<p class="text-center bg-primary text-white p-1 fixed-bottom">© Happy Bookstore 2021</p>

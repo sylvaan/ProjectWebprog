@@ -1,0 +1,1 @@
+<h1 class="text-center bg-primary text-white mb-0 p-5">Welcome to Happy Bookstore</h1>
