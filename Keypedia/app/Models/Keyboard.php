@@ -11,10 +11,10 @@ class Keyboard extends Model
 
     protected $fillable = [
         'categoryID', // ini bakal jadi FK
-        'name',
-        'price',
-        'description',
-        'image',
+        'keyboardName',
+        'keyboardPrice',
+        'keyboardDescription',
+        'keyboardImage',
     ];
 
     public function category () {

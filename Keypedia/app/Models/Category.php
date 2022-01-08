@@ -10,12 +10,11 @@ class Category extends Model
     use HasFactory;
 
     protected $fillable = [
-        'categoryID', // ini bakal jadi FK
         'categoryName',
         'categoryImage',
     ];
 
-    public function Keyboards () {
+    public function keyboards () {
         return $this->hasMany(Keyboard::class);
     } 
 }
